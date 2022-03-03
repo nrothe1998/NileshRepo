@@ -10,8 +10,7 @@ public class HelloWorld {
     int res =a*b;
     System.out.println(res);
     
-    int div=a/b;
-    System.out.println(div);
+  
     
   }
 }

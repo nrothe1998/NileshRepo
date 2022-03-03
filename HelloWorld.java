@@ -6,5 +6,9 @@ public class HelloWorld {
     int b=20;
     int sum =a+b;
     System.out.println(sum);
+    
+    int res =a*b;
+    System.out.println(res);
+    
   }
 }

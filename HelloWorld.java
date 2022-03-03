@@ -13,6 +13,9 @@ public class HelloWorld {
      int div=a/b;
     System.out.println(div);
     
+    System.out.println(500+300);
+    
+    
   
     
   }
